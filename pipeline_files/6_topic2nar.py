@@ -37,7 +37,7 @@ GPU_DEVICE = 1  # Specify which GPU to use (0 for first GPU, 1 for second, etc.)
 EMBEDDING_PATH = f"{SERVER}/pipeline_data/claim_embeddings"
 
 # Load OpenAI key from environment variable
-openai_key = os.getenv("OPENROUTER_API_KEY")
+openai_key = os.getenv("")
 client = OpenAI(base_url="",
                 api_key=openai_key)
 
