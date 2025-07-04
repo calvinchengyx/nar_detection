@@ -22,8 +22,8 @@ from openai import OpenAI
 from tqdm import tqdm
 
 # Load OpenAI key from environment variable
-openai_key = os.getenv("OPENROUTER_API_KEY_mohsen")
-client = OpenAI(base_url="https://openrouter.ai/api/v1",
+openai_key = os.getenv("")
+client = OpenAI(base_url="",
                 api_key=openai_key)
 
 

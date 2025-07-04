@@ -38,8 +38,8 @@ DATE = time.strftime("%Y%m%d")
 VERSION = 1
 
 # Load OpenAI key from environment variable
-openai_key = os.getenv("OPENROUTER_API_KEY_mohsen")
-client = OpenAI(base_url="https://openrouter.ai/api/v1",
+openai_key = os.getenv("")
+client = OpenAI(base_url="",
                 api_key=openai_key)
 df = pd.read_json(INPUT, lines=True)
 # df = df.sample(10, random_state=42).reset_index(drop=True)  # Sample 10 posts for testing
