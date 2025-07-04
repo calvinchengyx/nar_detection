@@ -1,0 +1,60 @@
+# Core Data Science and Machine Learning Libraries
+pandas>=2.0.0
+numpy>=1.21.0
+scikit-learn>=1.3.0
+
+# Natural Language Processing and Embeddings
+sentence-transformers>=2.2.0
+transformers>=4.21.0
+
+# Topic Modeling and Clustering  
+bertopic>=0.15.0
+hdbscan>=0.8.33
+umap-learn>=0.5.3
+
+# Optional: RAPIDS cuML for GPU acceleration (if available)
+# cuml>=23.04.0  # Uncomment if you have RAPIDS installed
+
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Progress Bars and Utilities
+tqdm>=4.64.0
+
+# API Clients for LLMs
+openai>=1.0.0
+ollama>=0.1.0
+
+# Data Indexing and Search
+annoy>=1.17.0
+
+# Data Serialization
+pickle-mixin>=1.0.2
+
+# Jupyter Notebook Support (if needed)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+notebook>=6.4.0
+
+# Development and Debugging
+ipython>=8.0.0
+
+# System and Environment
+python-dotenv>=0.19.0
+
+# Optional: Additional ML Libraries
+# gensim>=4.3.0  # For advanced topic coherence models (if needed)
+# matplotlib>=3.5.0  # For plotting and visualization
+# seaborn>=0.11.0  # For statistical plotting
+# plotly>=5.0.0  # For interactive plotting
+
+# Web scraping and HTTP (if needed for data collection)
+# requests>=2.28.0
+# beautifulsoup4>=4.11.0
+
+# Optional: Database connectors (uncomment if needed)
+# psycopg2-binary>=2.9.0  # PostgreSQL
+# pymongo>=4.0.0  # MongoDB
+# sqlalchemy>=1.4.0  # SQL toolkit

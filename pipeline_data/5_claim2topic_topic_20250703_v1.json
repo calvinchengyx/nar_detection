@@ -1,0 +1,508 @@
+[
+  {
+    "Topic":-1,
+    "Count":2265,
+    "Name":"-1_world_new_state_deep",
+    "Representation":[
+      "world",
+      "new",
+      "state",
+      "deep",
+      "deep state",
+      "order",
+      "world order",
+      "new world",
+      "new world order",
+      "people"
+    ],
+    "Representative_Docs":[
+      "The Deep State's agenda is to establish the New World Order.",
+      "The New World Order is the Nazi Fourth Reich.",
+      "The Secret Service is working with the Left's New World Order government."
+    ],
+    "rep_doc_ctfidf":"The Deep State's agenda is to establish the New World Order."
+  },
+  {
+    "Topic":0,
+    "Count":1016,
+    "Name":"0_trump_deep_deep state_state",
+    "Representation":[
+      "trump",
+      "deep",
+      "deep state",
+      "state",
+      "assassination",
+      "donald",
+      "donald trump",
+      "attempt",
+      "president",
+      "trumps"
+    ],
+    "Representative_Docs":[
+      "The Deep State is behind the assassination attempt of President Trump.",
+      "The deep state might be behind the assassination attempt on Donald Trump.",
+      "Trump is part of the deep state."
+    ],
+    "rep_doc_ctfidf":"The Deep State is behind the assassination attempt of President Trump."
+  },
+  {
+    "Topic":1,
+    "Count":882,
+    "Name":"1_deep_state_deep state_state deep",
+    "Representation":[
+      "deep",
+      "state",
+      "deep state",
+      "state deep",
+      "deep state deep",
+      "state deep state",
+      "people",
+      "conspiracy",
+      "government",
+      "deep states"
+    ],
+    "Representative_Docs":[
+      "The Deep State is real.",
+      "The Deep State's back is against the wall.",
+      "The Deep State is real."
+    ],
+    "rep_doc_ctfidf":"The Deep State is real."
+  },
+  {
+    "Topic":2,
+    "Count":735,
+    "Name":"2_world_order_world order_new world",
+    "Representation":[
+      "world",
+      "order",
+      "world order",
+      "new world",
+      "new",
+      "new world order",
+      "order new",
+      "order new world",
+      "world order new",
+      "america"
+    ],
+    "Representative_Docs":[
+      "The new world order is the same as the old new world order.",
+      "The U.S. government is part of the New World Order.",
+      "There is a new world order agenda."
+    ],
+    "rep_doc_ctfidf":"The new world order is the same as the old new world order."
+  },
+  {
+    "Topic":3,
+    "Count":585,
+    "Name":"3_illuminati_conspiracy_illuminati illuminati_freemasons",
+    "Representation":[
+      "illuminati",
+      "conspiracy",
+      "illuminati illuminati",
+      "freemasons",
+      "people",
+      "freemasonry",
+      "secret",
+      "satanic",
+      "involved",
+      "world"
+    ],
+    "Representative_Docs":[
+      "The Jesuits are part of the Illuminati.",
+      "D.U.M.B.S are related to the Illuminati.",
+      "The Illuminati may be real."
+    ],
+    "rep_doc_ctfidf":"The Jesuits are part of the Illuminati."
+  },
+  {
+    "Topic":4,
+    "Count":268,
+    "Name":"4_great_reset_great reset_agenda",
+    "Representation":[
+      "great",
+      "reset",
+      "great reset",
+      "agenda",
+      "wef",
+      "2030",
+      "depopulation",
+      "world",
+      "plan",
+      "agenda 2030"
+    ],
+    "Representative_Docs":[
+      "The World Economic Forum's Great Reset is behind Trump.",
+      "The UN is part of the 'great reset' along with the WEF and the WHO.",
+      "The World Economic Forum, WHO, and UN are part of the Great Reset\/New World Order agenda."
+    ],
+    "rep_doc_ctfidf":"The World Economic Forum's Great Reset is behind Trump."
+  },
+  {
+    "Topic":5,
+    "Count":263,
+    "Name":"5_biden_joe_bidens_joe biden",
+    "Representation":[
+      "biden",
+      "joe",
+      "bidens",
+      "joe biden",
+      "deep",
+      "state",
+      "deep state",
+      "joe bidens",
+      "biden administration",
+      "resignation"
+    ],
+    "Representative_Docs":[
+      "The Deep State is preparing for Joe Biden's replacement.",
+      "There are more than one Biden.",
+      "Joe Biden is not the legitimate President."
+    ],
+    "rep_doc_ctfidf":"The Deep State is preparing for Joe Biden's replacement."
+  },
+  {
+    "Topic":6,
+    "Count":167,
+    "Name":"6_democrats_democratic_order democrats_world order democrats",
+    "Representation":[
+      "democrats",
+      "democratic",
+      "order democrats",
+      "world order democrats",
+      "party",
+      "republicans",
+      "new",
+      "world order",
+      "order",
+      "new world"
+    ],
+    "Representative_Docs":[
+      "Both Democrats and Republicans are part of the New World Order.",
+      "Both Democrats and Republicans are part of the New World Order.",
+      "Democrats are part of the new world order."
+    ],
+    "rep_doc_ctfidf":"Both Democrats and Republicans are part of the New World Order."
+  },
+  {
+    "Topic":7,
+    "Count":142,
+    "Name":"7_covid19_covid_vaccine_vaccines",
+    "Representation":[
+      "covid19",
+      "covid",
+      "vaccine",
+      "vaccines",
+      "pandemic",
+      "pharma",
+      "big pharma",
+      "big",
+      "flu",
+      "bioweapons"
+    ],
+    "Representative_Docs":[
+      "COVID is a propaganda campaign by big Pharma and the New World Order.",
+      "COVID is a propaganda campaign by Big Pharma and the New World Order agenda.",
+      "COVID-19 is a propaganda campaign by big Pharma and the New World Order."
+    ],
+    "rep_doc_ctfidf":"COVID is a propaganda campaign by big Pharma and the New World Order."
+  },
+  {
+    "Topic":8,
+    "Count":135,
+    "Name":"8_israel_jews_zionists_jewish",
+    "Representation":[
+      "israel",
+      "jews",
+      "zionists",
+      "jewish",
+      "zionist",
+      "antisemitic",
+      "state israel",
+      "hamas",
+      "gaza",
+      "netanyahu"
+    ],
+    "Representative_Docs":[
+      "Zionists are part of the deep state in both Israel and the United States.",
+      "Netanyahu is not in Israel, raising concerns about the deep state of Israel provoking WWIII.",
+      "The U.S. deep state is Israel."
+    ],
+    "rep_doc_ctfidf":"Zionists are part of the deep state in both Israel and the United States."
+  },
+  {
+    "Topic":9,
+    "Count":132,
+    "Name":"9_russia_ukraine_china_putin",
+    "Representation":[
+      "russia",
+      "ukraine",
+      "china",
+      "putin",
+      "russian",
+      "world",
+      "new",
+      "order",
+      "new world",
+      "new world order"
+    ],
+    "Representative_Docs":[
+      "The Ukraine\/Russia war is a positioning of New World Order globalists against anti-globalist nationalists.",
+      "The world is planning for a major takeover involving Russia, China, North Korea, and Iran.",
+      "A coordinated invasion by Russia, China, North Korea, Iran, and Arab Armed Forces will occur in 2025."
+    ],
+    "rep_doc_ctfidf":"The Ukraine\/Russia war is a positioning of New World Order globalists against anti-globalist nationalists."
+  },
+  {
+    "Topic":10,
+    "Count":126,
+    "Name":"10_kamala_harris_kamala harris_hillary",
+    "Representation":[
+      "kamala",
+      "harris",
+      "kamala harris",
+      "hillary",
+      "deep",
+      "deep state",
+      "state",
+      "state kamala",
+      "deep state kamala",
+      "state kamala harris"
+    ],
+    "Representative_Docs":[
+      "Kamala Harris is not black.",
+      "Kamala Harris has always been the Deep State's choice.",
+      "This is done so Kamala Harris can have one more vote."
+    ],
+    "rep_doc_ctfidf":"Kamala Harris is not black."
+  },
+  {
+    "Topic":11,
+    "Count":121,
+    "Name":"11_election_2020_2020 election_elections",
+    "Representation":[
+      "election",
+      "2020",
+      "2020 election",
+      "elections",
+      "stolen",
+      "election stolen",
+      "voting",
+      "fraud",
+      "votes",
+      "election fraud"
+    ],
+    "Representative_Docs":[
+      "The election was stolen.",
+      "The 2020 election was stolen.",
+      "The 2020 election was stolen."
+    ],
+    "rep_doc_ctfidf":"The election was stolen."
+  },
+  {
+    "Topic":12,
+    "Count":87,
+    "Name":"12_media_mainstream_mainstream media_news",
+    "Representation":[
+      "media",
+      "mainstream",
+      "mainstream media",
+      "news",
+      "fox",
+      "propaganda",
+      "controlled",
+      "fox news",
+      "world order",
+      "order"
+    ],
+    "Representative_Docs":[
+      "The mainstream media works for the New World Order.",
+      "Mainstream media is controlled by the Illuminati.",
+      "Mainstream media is part of the Deep State."
+    ],
+    "rep_doc_ctfidf":"The mainstream media works for the New World Order."
+  },
+  {
+    "Topic":13,
+    "Count":64,
+    "Name":"13_government_people_political_officials",
+    "Representation":[
+      "government",
+      "people",
+      "political",
+      "officials",
+      "government officials",
+      "constitution",
+      "government government",
+      "federal government",
+      "country",
+      "politics"
+    ],
+    "Representative_Docs":[
+      "Government officials do not own individuals.",
+      "Hollowing out the federal government is about damaging parts of the government that do not victimize people.",
+      "The federal government is not ours."
+    ],
+    "rep_doc_ctfidf":"Government officials do not own individuals."
+  },
+  {
+    "Topic":14,
+    "Count":62,
+    "Name":"14_biden_world order biden_order biden_order",
+    "Representation":[
+      "biden",
+      "world order biden",
+      "order biden",
+      "order",
+      "new world",
+      "world order",
+      "new world order",
+      "new",
+      "world",
+      "joe biden"
+    ],
+    "Representative_Docs":[
+      "Joe Biden has a love for the New World Order.",
+      "Biden is part of the New World Order.",
+      "Joe Biden is part of the New World Order."
+    ],
+    "rep_doc_ctfidf":"Joe Biden has a love for the New World Order."
+  },
+  {
+    "Topic":15,
+    "Count":59,
+    "Name":"15_obama_barack_barack obama_obamas",
+    "Representation":[
+      "obama",
+      "barack",
+      "barack obama",
+      "obamas",
+      "country",
+      "obama associated",
+      "running",
+      "michelle obama",
+      "michelle",
+      "agenda"
+    ],
+    "Representative_Docs":[
+      "Barack Obama\u2019s brother claims Obama is addicted to adrenochrome.",
+      "Barack Obama is an anti-American dictator.",
+      "Barack Obama is running the country."
+    ],
+    "rep_doc_ctfidf":"Barack Obama\u2019s brother claims Obama is addicted to adrenochrome."
+  },
+  {
+    "Topic":16,
+    "Count":54,
+    "Name":"16_bush_george_world order_order",
+    "Representation":[
+      "bush",
+      "george",
+      "world order",
+      "order",
+      "new world",
+      "new world order",
+      "new",
+      "george bush",
+      "world",
+      "george hw bush"
+    ],
+    "Representative_Docs":[
+      "George HW Bush announced the New World Order on September 11, 1990.",
+      "George HW Bush introduced the New World Order.",
+      "George Bush is part of the New World Order."
+    ],
+    "rep_doc_ctfidf":"George HW Bush announced the New World Order on September 11, 1990."
+  },
+  {
+    "Topic":17,
+    "Count":47,
+    "Name":"17_democrats_deep state democrats_state democrats_deep state",
+    "Representation":[
+      "democrats",
+      "deep state democrats",
+      "state democrats",
+      "deep state",
+      "deep",
+      "state",
+      "republicans",
+      "democrat",
+      "democrats deep state",
+      "democrats deep"
+    ],
+    "Representative_Docs":[
+      "The Deep State Democrats want to destroy the USA.",
+      "The deep state and Democrats are destroying America.",
+      "The deep state is on the Democrats' side."
+    ],
+    "rep_doc_ctfidf":"The Deep State Democrats want to destroy the USA."
+  },
+  {
+    "Topic":18,
+    "Count":45,
+    "Name":"18_illegals_border_illegal_immigration",
+    "Representation":[
+      "illegals",
+      "border",
+      "illegal",
+      "immigration",
+      "immigrants",
+      "thousands",
+      "new york",
+      "york",
+      "crime",
+      "chaos"
+    ],
+    "Representative_Docs":[
+      "Muammar Gaddafi warned that his regime's fall would lead to chaos in Europe from illegal immigrants.",
+      "Illegal immigrants are staying in American hotels for free to boost voting numbers.",
+      "The New York Public Benefit Department is redefining illegals as 'Humanitarian Entrants.'"
+    ],
+    "rep_doc_ctfidf":"Muammar Gaddafi warned that his regime's fall would lead to chaos in Europe from illegal immigrants."
+  },
+  {
+    "Topic":19,
+    "Count":43,
+    "Name":"19_children_trafficking_child_child trafficking",
+    "Representation":[
+      "children",
+      "trafficking",
+      "child",
+      "child trafficking",
+      "gender",
+      "harvesting",
+      "adrenochrome",
+      "organ harvesting",
+      "trafficking children",
+      "organ"
+    ],
+    "Representative_Docs":[
+      "There is an international child sex trafficking and organ harvesting ring run out of the Vatican.",
+      "Victims are kidnapped for adrenochrome and organ harvesting for the Reptilians.",
+      "Victims were kidnapped for adrenochrome and organ harvesting for reptilians."
+    ],
+    "rep_doc_ctfidf":"There is an international child sex trafficking and organ harvesting ring run out of the Vatican."
+  },
+  {
+    "Topic":20,
+    "Count":41,
+    "Name":"20_soros_george soros_george_new world",
+    "Representation":[
+      "soros",
+      "george soros",
+      "george",
+      "new world",
+      "new",
+      "new world order",
+      "world order",
+      "world",
+      "order",
+      "schwab"
+    ],
+    "Representative_Docs":[
+      "Klaus Schwab, George Soros, and Bill Gates are part of the New World Order elitists.",
+      "George Soros is part of the New World Order elites.",
+      "George Soros is part of the New World Order."
+    ],
+    "rep_doc_ctfidf":"Klaus Schwab, George Soros, and Bill Gates are part of the New World Order elitists."
+  }
+]
